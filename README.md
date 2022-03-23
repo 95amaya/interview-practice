@@ -1,2 +1,2 @@
 # interview-practice
-repository created to for practicing for coding interview questions
+repository created to practice for coding interview questions
